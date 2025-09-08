@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guilherme Pereira</h1>
+<h1 align="center">Hi 👋, I'm Guilherme Pereira but call me Gri🦗</h1>
 <h3 align="center">CTeSP Graduate in Network & Software Systems | Passionate about Software Development & Cybersecurity | Creator of USB Scan Guard & BitJourney | Skilled in HTML, CSS, JavaScript, PHP/MySQL | Fluent in English (C1)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gri456&label=Profile%20views&color=0e75b6&style=flat" alt="gri456" /> </p>
